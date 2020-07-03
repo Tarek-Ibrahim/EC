@@ -3,7 +3,7 @@ Evolutionary Computing
 
 1. **DE**: Differential Evolution
 2. **GA**: Genetic Algorithms
-3. **MOO**: Multi-ojective Optimization
+3. **MOO**: Multi-objective Optimization
 5. **obj_functions**: A set of benchmark objective functions
 6. **operators**: A set of common evolutionary operators
 
